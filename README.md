@@ -1,1 +1,2 @@
 # ClimateWins-Unsupervised-ML-
+Continuing with the weather data collected by ClimateWins, the following projects contain unsupervised machine learning models. The Python scripts detail how this collected data was optimized and used in predictive machine learning models such as Hierarchal Clustering, Random Forest, Convolution Neural Network (CNN), and Generative Adversarial Network (GAN) methods. Using these models, we wanted to predict future weather events and the effects of climate change over time.
